@@ -1,0 +1,211 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #e5e5e5;
+  padding: 40px;
+}
+.Wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  background: #ffffff;
+  width: 1200px;
+  margin: 0 auto;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+/* ОсновнаІнформація */
+.MainContend {
+  padding: 88px;
+}
+.MyContent {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000000;
+  margin: 0 0 8px 0;
+}
+/* ПроМене */
+.AboutMeContainer {
+  margin-bottom: 64px;
+}
+.MyProfession {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+  margin: 0 0 20px 0;
+}
+.MyName {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 55px;
+  color: #000000;
+  margin: 0 0 28px 0;
+}
+.MyDescreption {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+/* Проєкти */
+.ProjectContainer {
+  margin-bottom: 48px;
+}
+.ProjectList {
+  padding: 0;
+  margin: 0 0 0 16px;
+}
+.ProjectItem {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+.ProjectItemDescreption {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.ProjectItemLink {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  text-decoration-line: underline;
+  color: #005fff;
+}
+/* Досвід */
+.WorkExperienceConteiner {
+  margin-bottom: 44px;
+}
+.WorkExperiencePlace {
+  margin-bottom: 16px;
+}
+.WorkExperiencePosition {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000000;
+  margin: 0;
+}
+.WorkExperienceCompany {
+  color: #6d9bf5;
+}
+.WorkExperienceTime {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+  margin: 12px 0 8px 0;
+}
+.WorkExperienceDuties {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.WorkDuties {
+  padding: 0 0 0 16px;
+  margin: 0;
+}
+/* Освіта */
+.MyEducation {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000000;
+  margin: 0;
+}
+.MyEducationFaculty{
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+  margin: 12px 0 8px 0;
+}
+.MyEducationsPecility{
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  padding: 0 0 0 16px;
+  margin: 0;
+}
+/* ДодатковаІнформація */
+.saidbar {
+  width: 370px;
+  background: #d6d7d8;
+}
+/* Фото */
+.MyPhoto {
+  margin-top: 40px;
+}
+
+.Contacts_container,
+.TechSkils_container,
+.SoftSkils_container {
+  margin: 48px 0 0 40px;
+}
+.saidbar_title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  color: #161d2a;
+  margin-bottom: 8px;
+}
+/* Контакти */
+.contacts-type {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #161d2a;
+  margin-right: 8px;
+}
+.ContactsIten {
+  margin: 0;
+}
+.ContactsNumber {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #161d2a;
+}
+.ContactsEmail {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #2979ff;
+}
+
+/* Навички */
+.SkilsList {
+  margin: 0;
+  padding: 0 0 0 14px;
+}
+.SkilsListItem {
+  color: #000000;
+}
+.SkilsListText {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #161d2a;
+}
